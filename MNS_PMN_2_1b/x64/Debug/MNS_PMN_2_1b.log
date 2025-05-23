@@ -1,0 +1,8 @@
+﻿  code.cpp
+C:\Users\maria\Documents\EECE2560\MNS_PMN_2_1b\code.cpp(33,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  mastermind.cpp
+C:\Users\maria\Documents\EECE2560\MNS_PMN_2_1b\mastermind.cpp(148,25): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  MNS_PMN_2_1b.cpp
+  response.cpp
+  Generating Code...
+  MNS_PMN_2_1b.vcxproj -> C:\Users\maria\Documents\EECE2560\MNS_PMN_2_1b\x64\Debug\MNS_PMN_2_1b.exe
