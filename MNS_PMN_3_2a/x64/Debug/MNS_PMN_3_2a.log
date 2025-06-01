@@ -1,0 +1,4 @@
+﻿  dictionary.cpp
+C:\Users\maria\Documents\EECE2560\MNS_PMN_3_2a\MNS_PMN_3_2a\dictionary.cpp(37,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maria\Documents\EECE2560\MNS_PMN_3_2a\MNS_PMN_3_2a\dictionary.cpp(77,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MNS_PMN_3_2a.vcxproj -> C:\Users\maria\Documents\EECE2560\MNS_PMN_3_2a\x64\Debug\MNS_PMN_3_2a.exe
